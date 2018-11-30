@@ -78,3 +78,7 @@ a {
 a:hover {
   color: orange;
 }
+
+p {
+  padding-bottom: 20px;
+}
